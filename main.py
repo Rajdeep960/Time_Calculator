@@ -1,4 +1,4 @@
-from tt import *
+from time_calculator import *
 
 print(add_time("3:00 PM", "3:10"))
 # Returns: 6:10 PM
